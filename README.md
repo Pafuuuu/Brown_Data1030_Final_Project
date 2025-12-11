@@ -43,5 +43,31 @@ dependencies:
 - py-xgboost = 3.0.0
 - shap = 0.47.2
 - jupyter
-
+```
+## 📁 Repository Structure
 prefix: /opt/conda
+├── data/
+│      └── diabetes_prediction_dataset.csv                  
+├── src/
+│   └── final_project.ipynb 
+├── figures/
+│   └── *.png                    
+├── report/
+│   └── Data1030_Final_Report.pdf
+├── data1030.yml
+└── README.md
+
+## 👤 Author
+
+Xuanyao (Clark) Qian
+Brown University, Data Science Institute
+
+GitHub: https://github.com/Pafuuuu
+
+Email: xuanyao_qian@brown.edu
+
+
+## 📄 License
+
+This repository is provided for academic and educational use under the MIT License.
+
