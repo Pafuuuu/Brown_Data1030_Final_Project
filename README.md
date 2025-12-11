@@ -44,6 +44,12 @@ dependencies:
 - shap = 0.47.2
 - jupyter
 ```
+
+### `Install the environment`
+```bash
+conda env create -f data1030.yml
+conda activate data1030
+```
 ## 📁 Repository Structure
 ```
 prefix: /opt/conda
