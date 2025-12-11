@@ -45,6 +45,7 @@ dependencies:
 - jupyter
 ```
 ## 📁 Repository Structure
+```
 prefix: /opt/conda
 ├── data/
 │      └── diabetes_prediction_dataset.csv                  
@@ -56,7 +57,7 @@ prefix: /opt/conda
 │   └── Data1030_Final_Report.pdf
 ├── data1030.yml
 └── README.md
-
+```
 ## 👤 Author
 
 Xuanyao (Clark) Qian
