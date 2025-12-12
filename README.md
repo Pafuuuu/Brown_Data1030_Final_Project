@@ -26,7 +26,7 @@ This project follows an end-to-end machine learning process:
 
 This project uses a conda environment for full reproducibility.
 
-### `environment.yml`
+### `data1030.yml`
 
 ```yaml
 name: data1030
